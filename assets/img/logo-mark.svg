@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" role="img" aria-label="GT Maroc">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E3A4F"/>
+      <stop offset="1" stop-color="#0A1520"/>
+    </linearGradient>
+  </defs>
+  <path d="M28 1.5 52.5 15.75v24.5L28 54.5 3.5 40.25v-24.5z" fill="url(#g)" stroke="#F5A623" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M28 6.5 48 18v21L28 50.5 8 39V18z" fill="none" stroke="#F5A623" stroke-opacity=".28" stroke-width="1"/>
+  <path d="M35.4 21.6a9.4 9.4 0 1 0 .2 12.9" fill="none" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="square"/>
+  <path d="M31.5 21.6h10.2" stroke="#F5A623" stroke-width="3.2" stroke-linecap="square"/>
+  <path d="M33.6 21.6v13.2" stroke="#F5A623" stroke-width="3.2" stroke-linecap="square"/>
+</svg>

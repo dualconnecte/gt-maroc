@@ -1,0 +1,12 @@
+gtmaroc.ma
+
+# Ce fichier est un modèle. Pour utiliser le domaine gtmaroc.ma avec GitHub Pages :
+# 1. renommer ce fichier en « CNAME » (sans .example.txt) ;
+# 2. chez le registraire du domaine, créer les enregistrements DNS :
+#      A     @    185.199.108.153
+#      A     @    185.199.109.153
+#      A     @    185.199.110.153
+#      A     @    185.199.111.153
+#      CNAME www  <compte>.github.io
+# 3. dans Settings > Pages du dépôt, renseigner le domaine personnalisé
+#    puis cocher « Enforce HTTPS ».
